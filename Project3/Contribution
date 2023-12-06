@@ -1,0 +1,53 @@
+This project is made by Siris Neupane and Dhruv Patel
+
+Part 1: Game Elements
+
+Player Health Displayed
+Enemies Spawn on One Side of the Map
+Base on the Other Side of the Map
+Enemies Reduce Player Health When They Reach the Base
+Assignment:
+Siris: Implement the player health display and the game layout, including spawning enemies and the player's base.
+
+Part 2: Map Design and Currency
+
+Maps Contain a Small Number of 'Wall Tiles'
+Most of the Field Should Be Traversable by Enemies
+Implement a Currency System
+Player Starts with an Initial Amount of Currency
+Assignment:
+
+Dhruv: Design maps with wall tiles and ensure most of the field is traversable by enemies. Implement a basic currency system and starting currency for the player.
+
+Part 3: Defense Towers
+
+Provide the Player at Least 4 Types of Defense Towers
+Each Tower Type Works Differently (Different Damage, Attack Speed, and Functionality)
+Towers Have a Limited Range to Damage Enemies
+Each Tower Type Costs a Different Amount
+Some Towers Deal Damage
+One Tower Type Slows or Stops Enemies for a Short Time
+Assignment:
+Dhruv: Implement the tower buttons.
+Siris: Siris add tower placement logic and different characteristics (damage, attack speed, functionality), cost.
+Part 4: Enemy Movement
+
+Enemies Move Straight Across the Map Until They Encounter a Wall or Tower
+Implement movement for Enemies to Find Their Way
+Towers Should Block Enemies Like Walls
+Assignment:
+
+Dhruv: Implement enemy movement logic, including different movements. Ensure that towers block enemy movement.
+
+Part 5: Map Progression
+
+When the Player Has Defeated Enough Enemies, Change the Map to the Next Map
+Assignment:
+
+Siris: Implement a mechanism to track the number of defeated enemies and switch to the next map when the condition is met.
+
+Part 6: Creating barrier maps where towers cannot be built
+Assignment: Dhruv
+
+Part 7: DEBUGGING
+Assignment: Siris and Dhruv
